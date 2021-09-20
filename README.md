@@ -62,7 +62,7 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg" alt="grafana" width="40" height="40"/> 
 </a>
 <a href="https://prometheus.io" target="_blank">
-  <img src="https://github.com/stakater/ForecastleIcons/blob/master/prometheus.png" alt="prometheus" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/230px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40"/> 
 </a>
 <a href="https://www.keycloak.org" target="_blank">
   <img src="https://github.com/aegis-icons/aegis-icons/blob/master/PNG/Keycloak.png" alt="Keycloak" width="40" height="40"/> 
