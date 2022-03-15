@@ -7,7 +7,7 @@
 - 💬 Ask me about Java, Spring, DSign, Docker, GitLab CI, Ansible, ЕСИА, ЕБС, СМЭВ
 - 📫 How to reach me: 
 <a href='m&#97;i&#108;&#116;&#111;&#58;vla&#100;kimo&#64;g%&#54;Da%&#54;9&#108;&#46;co&#109;'>v&#108;adki&#109;&#111;&#64;&#103;mail&#46;c&#111;m</a>
-- ⚡ Fun fact: i love snowboarding :snowboarder:
+- ⚡ Fun fact: i love boxing  and playing chess :smile:
 
 <br />
 
