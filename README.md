@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
-<h3 align="center">Software Engineer from Moscow :ru:</h3>
+<h3 align="center">Software Engineer</h3>
 
-
-- 🔭 I’m currently working on [RSHB-Intech](https://rshbintech.ru/)
 - 🌱 I’m currently learning Flutter, Rust, K8s, ML and ComputerVision
-- 💬 Ask me about Java, Spring, DSign, Docker, GitLab CI, Ansible, ЕСИА, ЕБС, СМЭВ
+- 💬 Ask me about: Java, Tomcat, Maven, Spring, DSign, Docker, GitLab CI, Ansible, Nexus 3, Nginx, OpenLdap, PostgreSQL, RabbitMQ
 - 📫 How to reach me: 
 <a href='m&#97;i&#108;&#116;&#111;&#58;vla&#100;kimo&#64;g%&#54;Da%&#54;9&#108;&#46;co&#109;'>v&#108;adki&#109;&#111;&#64;&#103;mail&#46;c&#111;m</a>
-- ⚡ Fun fact: i love boxing  and playing chess :smile:
+- ⚡ Christ, please save Ukraine <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji> and forgive us :sob: :broken_heart: :pray: 
 
 <br />
 
