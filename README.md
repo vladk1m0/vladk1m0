@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning Flutter, Rust, K8s, ML and ComputerVision
-- 💬 Ask me about: Java, Tomcat, Maven, Spring, DSign, Docker, GitLab CI, Ansible, Nexus 3, Nginx, OpenLdap, PostgreSQL, RabbitMQ
+- 🌱 Currently exploring: Kotlin, Python, Kubernetes, Machine Learning, and AI Agents
+- 💬 Ask me about: Java, Tomcat, Maven, Spring, Design Patterns, Docker, GitLab CI, Ansible, Nexus 3, Nginx, K8s, PostgreSQL, RabbitMQ
 - 📫 How to reach me: 
 <a href='m&#97;i&#108;&#116;&#111;&#58;vla&#100;kimo&#64;g%&#54;Da%&#54;9&#108;&#46;co&#109;'>v&#108;adki&#109;&#111;&#64;&#103;mail&#46;c&#111;m</a>
 
@@ -40,9 +40,6 @@
 <a href="https://maven.apache.org" target="_blank">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachemaven.svg" alt="apachemaven" width="40" height="40"/> 
 </a>
-<a href="https://hadoop.apache.org" target="_blank">
-  <img src="https://github.com/hortonworks/hadoop-icons/blob/557449f875d94ab7be3e8c8c136cf2029a358ca0/Images/HWX_Elephant_Green.png" alt="hadoop" width="40" height="40"/> 
-</a>
 <a href="https://nginx.org" target="_blank">
   <img src="https://raw.githubusercontent.com/vladk1m0/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
 </a>
@@ -62,7 +59,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/230px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40"/> 
 </a>
 <a href="https://www.keycloak.org" target="_blank">
-  <img src="https://github.com/aegis-icons/aegis-icons/blob/master/PNG/Keycloak.png" alt="Keycloak" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" alt="Keycloak" width="40" height="40"/> 
 </a>
 <a href="https://dart.dev" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
@@ -83,12 +80,6 @@
 
 
   
-<br />
-
-<h3 align="left">Connect with me:
-<a href="https://www.facebook.com/profile.php?id=100015848298743" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="https://www.facebook.com/profile.php?id=100015848298743" height="40" width="40" /></a>
-</h3>
-
 <br />
 
 | <a href="https://github.com/vladk1m0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vladk1m0&show_icons=true&include_all_commits=true&hide_border=true" alt="vladk1m0's github stats" /></a> | <a href="https://github.com/vladk1m0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladk1m0&layout=compact&hide_border=true" /></a> |
